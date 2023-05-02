@@ -1,6 +1,6 @@
 # mobilefirstrockeatseat
 
- projeto idealizado pela rockeatseat,criando uma pagina com diferentes ajustes para os tamanhos de tela,conceito moblie firts e animacoes
+ projeto idealizado pela rockeatseat,criando uma pagina com diferentes ajustes para os tamanhos de tela,conceito moblie first e animacoes
 
 ## Demonstração
 https://rodrigosantos0660.github.io/mobilefirstrockeatseat/
