@@ -26,7 +26,7 @@ https://rodrigosantos0660.github.io/mobilefirstrockeatseat/
 
 ## Stack utilizada
 
-**Front-end:** html,css,javascript
+**Front-end:** html,css
 
 
 
