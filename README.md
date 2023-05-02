@@ -1,7 +1,5 @@
 # mobilefirstrockeatseat
-
- projeto idealizado pela rockeatseat,criando uma pagina com diferentes ajustes para os tamanhos de tela,conceito moblie first e animacoes
-
+ project idealized by rockeatseat, creating a page with different settings for screen sizes, moblie first concept and animations
 ## Demonstração
 https://rodrigosantos0660.github.io/mobilefirstrockeatseat/
 
@@ -13,16 +11,15 @@ https://rodrigosantos0660.github.io/mobilefirstrockeatseat/
 
 
 ## Outras seções comuns em perfis do GitHub
-👩‍💻 Trabalho atualmente na ELETROSAT-TELECOM
+👩‍💻 I currently work at ELETROSAT-TELECOM
 
-🧠 Estou aprendendo desenvovimento de software na @Rockeatseat
+🧠I'm learning software development at @Rockeatseat
 
-💬 Me pergunte sobre desenvolvimento web front-end e terei prazer em ajudar!(em breve full-stack)
+💬Ask me about front-end web development and I'll be happy to help!(coming soon full-stack)
 
-📫 pode entrar em contato comigo por email: passinhorcs@hotmail.com
+📫you can contact me by email: passinhorcs@hotmail.com
  
-⚡️ Fatos engraçados meu apelido é passinho,mas nao sei dançar nada
-
+⚡️ Fun facts my nickname is passinho, but I don't know how to dance at all
 
 ## Stack utilizada
 
